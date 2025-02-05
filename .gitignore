@@ -150,7 +150,8 @@ temp/
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*
@@ -210,5 +211,5 @@ $RECYCLE.BIN/
 # amplify
 node_modules
 .amplify
-amplify_outputs*
+react-ts/src/amplify_outputs.json
 amplifyconfiguration*
